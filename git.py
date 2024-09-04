@@ -11,3 +11,4 @@ for i in range(n):
 for i in range(n, 5):
     print(' '*(1 + (i % 3))+'*'*(3 - 2*(i % 3)))
 
+# 잘되었습니다
